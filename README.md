@@ -2208,7 +2208,7 @@ Build your own, General purpose
 - Typed graph database designed as persistent memory and source of truth for AI agents
 - Git-style branch/merge: agents branch, explore, and merge results back
 - S3-native storage, no separate object store needed
-- Unified traversal + vector + BM25 search in one Rust runtime
+- S3-native, Rust, traversal + vector + BM25 in one runtime
 - Schema-first: define node and edge types upfront
 
 ### Links
